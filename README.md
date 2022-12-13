@@ -8,8 +8,9 @@ If the video comes from YouTube, download it with a tool like youtube-dl in MP4 
 Run it one time without any config and use the preview.png image (taken at 7th second by default) to find the scrolling piano sheet zone's coordinates as it can't be detected automatically, and fill them instead of default ```x1=0, y1=5, x2=640, y2=170```.
 Then fill the following parameters:
 ```
-# Your configuration here
+Example: pianoize(6,2.25,200):
+
 start = 6 #when the piano playing starts (seconds)
-interval = 3 #at what interval the notes in one given frame are finished to be played, can be found by trial (seconds)
-length = 10 #how much intermediary sheets (frame files) you would like to be considered for generating the sheet
+interval = 2.25 #at what interval the notes in one given frame are finished to be played, can be found by trial (seconds)
+length = 200 #how much intermediary sheets (frame files) you would like to be considered for generating the sheet
 ```
