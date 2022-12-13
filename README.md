@@ -1,6 +1,6 @@
-# pianoizer : Reconstitute a complete piano sheet from a live piano playing video (eg. Synthesia)
+# pianoizer : Reconstitute a complete piano "sheet" from a live piano playing video (eg. Synthesia)
 
-This Jupyter Notebook/Python script will reconstitute the full piano sheet used on a live playing video (such as the ones available on YouTube), so you can have it on one image, play it offline and eventually print it, to better practice and impress on opportunities with your fraudulent skills :p
+This Jupyter Notebook/Python script will reconstitute the full piano "sheet" used on a live playing video (such as the ones available on YouTube), so you can have it on one image, play it offline and eventually print it, to better practice and impress on opportunities with your fraudulent skills :p
 
 ## Usage
 
